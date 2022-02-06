@@ -1295,7 +1295,13 @@
         "name": "Word Search",
         "uuid": "0125f5a7-8883-4553-a6c1-45f19544af5e",
         "practices": [],
-        "prerequisites": [],
+        "prerequisites": [
+          "arrays",
+          "array-loops",
+          "array-transformations",
+          "classes",
+          "conditionals"
+        ],
         "difficulty": 8,
         "topics": [
           "arrays",
@@ -1312,7 +1318,10 @@
         "name": "Variable Length Quantity",
         "uuid": "6be39d1f-f68d-4a52-bd72-85a38ffd509e",
         "practices": [],
-        "prerequisites": [],
+        "prerequisites": [
+          "array-transformations",
+          "rest-and-spread"
+        ],
         "difficulty": 5,
         "topics": ["bitwise_operations", "transforming"]
       },
